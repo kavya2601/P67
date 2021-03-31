@@ -182,3 +182,4 @@ Quirk is licensed under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Publ
 
 Note that this license **does not** give free reign to redistribute the name and branding of quirk. So if you'd like to publish your own version, please rename it to avoid end-user confusion.
 ## 1- I have written a comment YAAAY!
+## 2- wish good luck to flaque for his new room service app and I wish hm all the success.
